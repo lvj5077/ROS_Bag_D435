@@ -1,0 +1,8 @@
+prefix=/home/jin/Lingqiu_Jin/ROS_Bag_D435/build/devel
+
+Name: ROS_Bag_D435
+Description: Description of ROS_Bag_D435
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jin/Lingqiu_Jin/ROS_Bag_D435/build/devel/lib 
+Requires: roscpp std_msgs tf std_msgs

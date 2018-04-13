@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: ROS_Bag_D435
+Description: Description of ROS_Bag_D435
+Version: 0.0.0
+Cflags: 
+Libs: -L/usr/local/lib 
+Requires: roscpp std_msgs tf std_msgs
